@@ -99,6 +99,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT:
-![Alt text](222.png)
+<img width="688" height="710" alt="image" src="https://github.com/user-attachments/assets/527673e7-ddf5-4a5a-b1bc-e07560aa7b9d" />
+
 # RESULT:
 The programs are executed successfully.
